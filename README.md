@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devfahimbd/devfahimbd/main/banner.png" alt="MD Fahim Sheikh Banner" width="100%" />
+</p>
+
 # 💫 About Me:
 Hi, I’m MD Fahim Sheikh — a professional Game, Web, and App Developer. I specialize in building high-quality games, modern responsive websites, and scalable mobile applications. I focus on writing clean, efficient code and turning ideas into real, impactful digital products. I’m always learning and improving to stay updated with the latest technologies.<br><br>
 
