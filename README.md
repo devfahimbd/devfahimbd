@@ -22,7 +22,7 @@
   <a href="https://github.com/devfahimbd">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=devfahimbd&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="devfahimbd's GitHub Stats" />
   </a>
-  <img src="https://streak-stats.demolab.com/?user=devfahimbd&theme=radical&hide_border=true&cache_seconds=86400" alt="devfahimbd's GitHub Streak" width="49%" />
+
 </p>
 <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=devfahimbd&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="MD Fahim Sheikh's GitHub Trophies" />
